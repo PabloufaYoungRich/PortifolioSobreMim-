@@ -1,0 +1,11 @@
+.cabecalho{
+    width: 100%;
+    text-align: center;
+    background-color: pink;
+}
+
+.cabecalho__titulo{
+    color: blue;
+    font-family: "Red Hat Display", sans-serif;
+
+}
